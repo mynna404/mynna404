@@ -1,4 +1,4 @@
-## 👻 Hi there, this is Minarx 👋  ![Visitor Count](https://profile-counter.glitch.me/egmsia01/count.svg)
+## 👻 Hi there, this is MinaFluo 👋  ![Visitor Count](https://profile-counter.glitch.me/egmsia01/count.svg)
  
 A Java & Kotlin Programmer. Welcome to my Github profile!
 
@@ -10,7 +10,7 @@ A Java & Kotlin Programmer. Welcome to my Github profile!
 </h1>
 <div align="center">
 
-[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=minarx01&show_icons=true&line_height=40&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/minarx01)
-[![Minarx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minarx01&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/minarx01)
+[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=MinaFluo&show_icons=true&line_height=40&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/MinaFluo)
+[![MinaFluo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MinaFluo&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/MinaFluo)
 
 </div>
