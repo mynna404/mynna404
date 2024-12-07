@@ -1,9 +1,6 @@
-## 👻 Hi there, this is MinaFluo 👋  ![Visitor Count](https://profile-counter.glitch.me/egmsia01/count.svg)
+## 👻 Hi there, this is MinaFluo 👋  ![Visitor Count](https://profile-counter.glitch.me/MinaFluo/count.svg)
  
 A Java & Kotlin Programmer. Welcome to my Github profile!
-
-- 🔭 I’m a senior majoring.
-- 🌱 Likes Android、Reverse Engineering and Linux.
 
 <h1 align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=System.out.println(%22Hello+World+!%22);" alt="Typing SVG" /></a>
