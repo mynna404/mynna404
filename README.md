@@ -1,4 +1,4 @@
-## 👻 Hi there, this is MinaFluo 👋  ![Visitor Count](https://profile-counter.glitch.me/MinaFluo/count.svg)
+## 👻 Hi there, this is MinaFluo 👋  ![Visitor Count](https://profile-counter.glitch.me/egmsia01/count.svg)
  
 A Java & Kotlin Programmer. Welcome to my Github profile!
 
