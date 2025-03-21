@@ -1,4 +1,4 @@
-## 👻 Hi there, this is ciimina 👋  ![Visitor Count](https://profile-counter.glitch.me/egmsia01/count.svg)
+## 👻 Hi, this is ciimina  ![Visitor Count](https://profile-counter.glitch.me/egmsia01/count.svg)
  
 A Java & Kotlin Programmer. Welcome to my Github profile!
 
