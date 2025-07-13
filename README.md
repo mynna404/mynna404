@@ -1,6 +1,6 @@
-## 👻 Hi, this is Ciimina  ![Visitor Count](https://profile-counter.glitch.me/egmsia01/count.svg)
+## 👻 Welcome to my Github profile!
  
-A Java & Kotlin Programmer. Welcome to my Github profile!
+A Java & Kotlin Programmer. 
 
 Currently pursuing a Master degree in Computer Science at XATU.
 
