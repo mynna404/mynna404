@@ -9,7 +9,7 @@ Currently pursuing a Master degree in Computer Science at XATU.
 </h1>
 <div align="center">
 
-[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=ciimina&show_icons=true&line_height=40&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/ciimina)
-[![ciimina's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ciimina&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/ciimina)
+[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=devm1na&show_icons=true&line_height=40&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/devm1na)
+[![TruE's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devm1na&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/devm1na)
 
 </div>
