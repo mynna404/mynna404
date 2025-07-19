@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient" />
+</p>
+
 ## 👻 Welcome to my Github profile!
  
 A Java & Kotlin Programmer. 
