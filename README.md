@@ -10,10 +10,10 @@
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devm1na" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mynna404" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devm1na&layout=compact&langs_count=8&card_width=350&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=locall,AIGlasses-APP" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mynna404&layout=compact&langs_count=8&card_width=350&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=locall,AIGlasses-APP" />
 </a>
 
 </div>
