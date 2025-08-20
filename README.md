@@ -9,11 +9,11 @@
 </h1>
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/mynna404">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mynna404" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mynna404&layout=compact&langs_count=8&card_width=350&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=locall,AIGlasses-APP" />
+<a href="https://github.com/mynna404">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mynna404&layout=compact&langs_count=8&card_width=350&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=mynna404.github.io" />
 </a>
 
 </div>
